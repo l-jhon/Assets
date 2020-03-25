@@ -22,6 +22,9 @@
 - http://www.amapadigital.net/
 - http://cafecomnoticia.com.br/
 - https://g1.globo.com/ap/amapa/cidade/ferreira-gomes/
+- https://portalladob.com.br/
+- https://selesnafes.com/
+- https://www.jarinoticias.com.br/
 
 ## Amazonas
 
