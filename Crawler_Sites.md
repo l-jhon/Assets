@@ -19,6 +19,9 @@
 - https://www.diariodoamapa.com.br/
 - http://www.jdia.com.br/
 - https://www.tribunaamapaense.com/
+- http://www.amapadigital.net/
+- http://cafecomnoticia.com.br/
+- https://g1.globo.com/ap/amapa/cidade/ferreira-gomes/
 
 ## Amazonas
 
