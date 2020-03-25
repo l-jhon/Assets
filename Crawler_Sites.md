@@ -2,7 +2,15 @@
 
 
 ## Acre
-
+- https://g1.globo.com/ac/acre/
+- https://agazetadoacre.com/
+- http://www.oriobranco.net/
+- http://www.jornalatribuna.com.br/
+- https://jornalopiniao.net/
+- https://oaltoacre.com/
+- https://www.vozdonorte.com.br/portal/
+- https://tribunadojurua.com.br/
+- https://oestadoacre.com/
 
 ## Alagoas
 - https://g1.globo.com/al/alagoas/
@@ -37,6 +45,26 @@
 - https://osolimoes.com.br/
 
 ## Bahia
+- https://www.correio24horas.com.br/capa/
+- http://atarde.uol.com.br/
+- https://www.trbn.com.br/
+- https://jornalnovafronteira.com.br/
+- http://www.novoeste.com/
+- https://www.jornaldosudoeste.com/
+- http://www.sertaohoje.com.br/
+- https://correiodooeste.com.br/
+- https://www.jornalcamacari.com.br/
+- https://jornalalerta.com.br/
+- https://www.jornalfolhadoestado.com/
+- https://www.jornalgrandebahia.com.br/
+- http://www.tribunafeirense.com.br/
+- https://diariobahia.com.br/
+- https://www.anoticiadovale.com/index.php/pt/
+- https://folharegionalbahia.com.br/
+- http://oecojornal.com.br/
+- http://www.folhasertaneja.com.br/
+- http://terrasantanoticias.com.br/
+- http://www.jornalimpacto.com.br/
 
 ## Ceará
 
