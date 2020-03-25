@@ -88,6 +88,14 @@
 ## São Paulo
 
 ## Sergipe
+- https://g1.globo.com/se/sergipe/
+- https://infonet.com.br/categoria/noticias/cidade/
+- https://ajn1.com.br/
+- http://www.jornaldacidade.net/
+- http://www.jornaldodiase.com.br/
+- http://www.atribunacultural.com.br/
+- https://jornaldesergipe.com.br/
+
 
 ## Tocantins
 - https://g1.globo.com/to/tocantins/
