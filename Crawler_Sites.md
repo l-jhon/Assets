@@ -100,6 +100,38 @@
 - https://jornalexpressoce.com/
 - http://anoticiadoceara.com.br/
 ## Distrito Federal
+- https://alo.com.br/impresso/
+- https://g1.globo.com/df/distritofederal/
+- http://www.correiobraziliense.com.br/
+- http://www.jornaldebrasilia.com.br/
+- http://brasiliaagora.com.br/
+- https://www.bsbcapital.com.br/
+- http://www.jornaldacomunidade.com.br/
+- http://www.jornaldebrasilia.com.br/category/nahorah/
+- http://estacaonews.blog.br/
+-http://www.readmetro.com/en/brazil/brasilia/
+- https://www.todahoraweb.com/
+- http://viversports.com.br/
+- http://folhacentrooeste.blog.br/
+-http://www.jornalregional.com.br/
+-http://www.jornalcoletivo.com.br/
+- http://www.jornaldodf.com.br/
+- http://www.camara.leg.br/internet/jornalcamara/
+- http://www12.senado.gov.br/jornal
+- http://classificadaodf.com.br/
+- http://jornaldfbrasil.com.br/
+- http://www.dou.com.br/
+- https://dou.jusbrasil.com.br/
+- http://www.gazetadetaguatinga.com.br/
+- http://www.capitaldoentorno.com.br/
+- https://www.reporterpolitico.com.br/
+- http://www.jornaldeaguasclaras.com.br/
+- http://www.jornaldeceilandia.com.br/
+- http://www.diariodeceilandia.com.br/
+- http://odemocrata.com/
+- https://jornaldoguara.com.br/
+- http://agenciasatelite.com.br/
+-http://correiodesantamaria.com.br/
 
 ## Espírito Santo
 
