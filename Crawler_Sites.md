@@ -134,6 +134,15 @@
 
 
 ## Piauí
+- https://g1.globo.com/pi/piaui/
+- https://www.pi.gov.br/noticias/
+- https://cidadeverde.com/
+- https://www.gp1.com.br/noticias/piaui/
+- https://piauihoje.com/
+- https://www.jornaldacidadepi.com.br/
+- https://tribunadonordeste.com/
+- http://www.correiodonorte.com/
+
 
 ## Rio de Janeiro
 - https://oglobo.globo.com/
