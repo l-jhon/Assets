@@ -119,6 +119,13 @@
 ## Pará
 
 ## Paraíba
+- https://g1.globo.com/pb/paraiba
+- https://www.pbagora.com.br/
+- https://portalcorreio.com.br/
+- http://www.jornaldaparaiba.com.br/
+- http://www.apalavraonline.com.br/
+- https://www.portalt5.com.br/noticias/paraiba
+- https://paraiba.pb.gov.br/noticias
 
 ## Paraná
 - https://g1.globo.com/pr/parana/
