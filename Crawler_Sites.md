@@ -87,7 +87,18 @@
 - http://jornalasemanaonline.com/
 - http://jornalasemanaonline.com/
 ## Ceará
-
+- https://g1.globo.com/ce/ceara/
+- http://www.diariodonordeste.com.br/
+- http://www.opovo.com.br/jornaldehoje/
+- http://www.oestadoce.com.br/
+- http://www.tribunadoceara.com.br/
+- http://www.folhadosertaoce.com.br/
+- http://www.gazetadenoticias.com/
+- http://www.jornalapraca.com.br/
+- http://www.itapiunanews.com.br/
+- http://www.jornaldocariri.com.br/
+- https://jornalexpressoce.com/
+- http://anoticiadoceara.com.br/
 ## Distrito Federal
 
 ## Espírito Santo
