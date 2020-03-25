@@ -94,6 +94,13 @@
 ## Rio Grande do Sul
 
 ## Rondônia
+- https://g1.globo.com/ro/rondonia/
+- https://www.rondoniagora.com/
+- https://www.correiodenoticia.com.br/
+- http://www.rondonia.ro.gov.br/portal/noticias/
+- http://rondoniaovivo.com/
+- http://www.folharondoniense.com.br/
+- http://madeiraoweb.com.br/
 
 ## Roraima
 - https://g1.globo.com/rr/roraima/
