@@ -5,7 +5,7 @@
 - https://g1.globo.com/ac/acre/
 - https://agazetadoacre.com/
 - http://www.oriobranco.net/
--http://www.jornalatribuna.com.br/
+- http://www.jornalatribuna.com.br/
 - https://jornalopiniao.net/
 - https://oaltoacre.com/
 - https://www.vozdonorte.com.br/portal/
