@@ -121,6 +121,16 @@
 ## Paraíba
 
 ## Paraná
+- https://g1.globo.com/pr/parana/
+- https://www.tribunapr.com.br/
+- https://paranaportal.uol.com.br/
+- https://www.gazetadopovo.com.br/parana/
+- https://ricmais.com.br/
+- https://www.bemparana.com.br/
+- https://www.jornale.com.br/
+- http://www.impactopr.com.br/
+- https://www.folhadelondrina.com.br/
+
 
 ## Pernambuco
 - https://www.diariodepernambuco.com.br/
@@ -152,6 +162,7 @@
 - https://www.correiodobrasil.com.br/
 - https://g1.globo.com/rj/rio-de-janeiro/
 - https://vejario.abril.com.br/
+
 
 ## Rio Grande do Norte
 - https://agorarn.com.br/
