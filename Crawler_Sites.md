@@ -5,7 +5,7 @@
 - https://g1.globo.com/ac/acre/
 - https://agazetadoacre.com/
 - http://www.oriobranco.net/
-- http://www.jornalatribuna.com.br/
+-http://www.jornalatribuna.com.br/
 - https://jornalopiniao.net/
 - https://oaltoacre.com/
 - https://www.vozdonorte.com.br/portal/
@@ -43,32 +43,95 @@
 - https://ojornaldailha.com/
 - https://reporterparintins.com.br/
 - https://osolimoes.com.br/
+- https://g1.globo.com/am/amazonas/
 
 ## Bahia
+- https://g1.globo.com/ba/bahia/
 - https://www.correio24horas.com.br/capa/
-- http://atarde.uol.com.br/
+-http://atarde.uol.com.br/
 - https://www.trbn.com.br/
+- http://www.jornalmassa.com.br/
+- http://www.jornaldametropole.com.br/
+- http://www.folhacidadebaixa.com/
+- https://jornalgazetadooeste.com.br/
 - https://jornalnovafronteira.com.br/
 - http://www.novoeste.com/
-- https://www.jornaldosudoeste.com/
-- http://www.sertaohoje.com.br/
-- https://correiodooeste.com.br/
-- https://www.jornalcamacari.com.br/
-- https://jornalalerta.com.br/
-- https://www.jornalfolhadoestado.com/
-- https://www.jornalgrandebahia.com.br/
+-http://www.jornalanossavoz.com.br/
+-http://www.jornaldosudoeste.com/
+-http://www.sertaohoje.com.br/
+-http://www.correiodooeste.com.br/
+- https://www.jornalcamacari.com/
+- http://www.tabuonline.com.br/
+- http://www.jsertao.com/
+- http://istoenoticia.com/
+- http://www.jornalalerta.com.br/
+- http://www.jornalfolhadoestado.com/
+-http://www.jornalgrandebahia.com.br/
 - http://www.tribunafeirense.com.br/
-- https://diariobahia.com.br/
-- https://www.anoticiadovale.com/index.php/pt/
+- http://www.tribunapopulargbi.com.br/
+- http://www.folhadapraia.com/
+- http://www.oparaguacu.com.br/
+- http://portalgazetadovale.com.br/
+- http://www.aregiao.com.br/
+- http://www.diariobahia.com.br/
+- http://www.anoticiananet.com/
+- http://www.anoticiadovale.com/
 - https://folharegionalbahia.com.br/
-- http://oecojornal.com.br/
+- http://www.classealem.com.br/
+- http://www.oecojornal.com.br/
 - http://www.folhasertaneja.com.br/
+- http://www.jornalvisao.com.br/
+- http://www.jornaldosol.com.br/
+- http://www.osollo.com.br/
 - http://terrasantanoticias.com.br/
-- http://www.jornalimpacto.com.br/
-
+- http://jornalasemanaonline.com/
+- http://jornalasemanaonline.com/
 ## Ceará
-
+- https://g1.globo.com/ce/ceara/
+- http://www.diariodonordeste.com.br/
+- http://www.opovo.com.br/jornaldehoje/
+- http://www.oestadoce.com.br/
+- http://www.tribunadoceara.com.br/
+- http://www.folhadosertaoce.com.br/
+- http://www.gazetadenoticias.com/
+- http://www.jornalapraca.com.br/
+- http://www.itapiunanews.com.br/
+- http://www.jornaldocariri.com.br/
+- https://jornalexpressoce.com/
+- http://anoticiadoceara.com.br/
 ## Distrito Federal
+- https://alo.com.br/impresso/
+- https://g1.globo.com/df/distritofederal/
+- http://www.correiobraziliense.com.br/
+- http://www.jornaldebrasilia.com.br/
+- http://brasiliaagora.com.br/
+- https://www.bsbcapital.com.br/
+- http://www.jornaldacomunidade.com.br/
+- http://www.jornaldebrasilia.com.br/category/nahorah/
+- http://estacaonews.blog.br/
+-http://www.readmetro.com/en/brazil/brasilia/
+- https://www.todahoraweb.com/
+- http://viversports.com.br/
+- http://folhacentrooeste.blog.br/
+-http://www.jornalregional.com.br/
+-http://www.jornalcoletivo.com.br/
+- http://www.jornaldodf.com.br/
+- http://www.camara.leg.br/internet/jornalcamara/
+- http://www12.senado.gov.br/jornal
+- http://classificadaodf.com.br/
+- http://jornaldfbrasil.com.br/
+- http://www.dou.com.br/
+- https://dou.jusbrasil.com.br/
+- http://www.gazetadetaguatinga.com.br/
+- http://www.capitaldoentorno.com.br/
+- https://www.reporterpolitico.com.br/
+- http://www.jornaldeaguasclaras.com.br/
+- http://www.jornaldeceilandia.com.br/
+- http://www.diariodeceilandia.com.br/
+- http://odemocrata.com/
+- https://jornaldoguara.com.br/
+- http://agenciasatelite.com.br/
+-http://correiodesantamaria.com.br/
 
 ## Espírito Santo
 
@@ -109,7 +172,6 @@
 - https://g1.globo.com/rj/rio-de-janeiro/
 - https://vejario.abril.com.br/
 
-
 ## Rio Grande do Norte
 - https://agorarn.com.br/
 - http://www.tribunadonorte.com.br/
@@ -121,25 +183,8 @@
 
 
 ## Rio Grande do Sul
-- https://g1.globo.com/rs/rio-grande-do-sul/
-- https://gauchazh.clicrbs.com.br/ultimas-noticias/
-- https://agoranors.com/
-- https://www.recordtvrs.com.br/
-- https://www.correiodopovo.com.br/
-- http://diariogaucho.clicrbs.com.br/rs/
-- https://www.jornaldocomercio.com/
-- https://jornaldomercado.com.br/
-
 
 ## Rondônia
-- https://g1.globo.com/ro/rondonia/
-- https://www.rondoniagora.com/
-- https://www.correiodenoticia.com.br/
-- http://www.rondonia.ro.gov.br/portal/noticias/
-- http://rondoniaovivo.com/
-- http://www.folharondoniense.com.br/
-- http://madeiraoweb.com.br/
-
 
 ## Roraima
 - https://g1.globo.com/rr/roraima/
