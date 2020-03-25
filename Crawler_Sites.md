@@ -96,6 +96,12 @@
 ## Rondônia
 
 ## Roraima
+- https://g1.globo.com/rr/roraima/
+- https://folhabv.com.br/noticia
+- http://www.jornalroraimahoje.com.br/
+- https://www.boavista.rr.gov.br/noticias
+- https://roraimaemtempo.com/
+
 
 ## Santa Catarina
 - https://g1.globo.com/sc/santa-catarina/
