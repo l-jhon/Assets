@@ -107,6 +107,10 @@
 ## Espírito Santo
 
 ## Goiás
+- http://www.saude.go.gov.br/noticias/
+- https://g1.globo.com/go/goias/
+- https://www.emaisgoias.com.br/
+- https://www.opopular.com.br/
 
 ## Maranhão
 
