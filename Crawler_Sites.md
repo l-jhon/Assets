@@ -109,6 +109,7 @@
 - https://g1.globo.com/rj/rio-de-janeiro/
 - https://vejario.abril.com.br/
 
+
 ## Rio Grande do Norte
 - https://agorarn.com.br/
 - http://www.tribunadonorte.com.br/
@@ -120,6 +121,15 @@
 
 
 ## Rio Grande do Sul
+- https://g1.globo.com/rs/rio-grande-do-sul/
+- https://gauchazh.clicrbs.com.br/ultimas-noticias/
+- https://agoranors.com/
+- https://www.recordtvrs.com.br/
+- https://www.correiodopovo.com.br/
+- http://diariogaucho.clicrbs.com.br/rs/
+- https://www.jornaldocomercio.com/
+- https://jornaldomercado.com.br/
+
 
 ## Rondônia
 - https://g1.globo.com/ro/rondonia/
@@ -129,6 +139,7 @@
 - http://rondoniaovivo.com/
 - http://www.folharondoniense.com.br/
 - http://madeiraoweb.com.br/
+
 
 ## Roraima
 - https://g1.globo.com/rr/roraima/
