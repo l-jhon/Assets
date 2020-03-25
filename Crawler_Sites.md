@@ -27,6 +27,14 @@
 - https://www.jarinoticias.com.br/
 
 ## Amazonas
+- https://www.acritica.com/
+- https://d.emtempo.com.br/
+- https://d24am.com/diario-do-amazonas/
+- https://www.jcam.com.br/
+- https://onjornal.com/
+- https://ojornaldailha.com/
+- https://reporterparintins.com.br/
+- https://osolimoes.com.br/
 
 ## Bahia
 
